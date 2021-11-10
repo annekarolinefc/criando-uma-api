@@ -10,6 +10,11 @@ comando:  npm install express
 criar o comando dev dentro do scrip do package.json 
     "dev": "nodemon ./src/index.html"
 
+comando: npm run dev 
+    roda a aplicação
+
+criar o campo "type": "module" dentro do package.json
+
 
 comando: node -v
     ver a versão do node instalado. No caso, v14.17.5
