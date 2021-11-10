@@ -31,6 +31,24 @@ ENDPOINTS
 Request GET : localhost:8000/api/customers
 Request POST : localhost:8000/api/customers
 Request PUT : localhost:8000/api/customers/:id
-Request DELETE : localhost:8000/api/customers/:id
+Request DELETE : localhost:8000/api/customers/:
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=WejbsEnvvRQ
+https://www.youtube.com/watch?v=DbDDUslUi64
+https://www.youtube.com/watch?v=mdig0FJwJcQ
+https://www.youtube.com/watch?v=di4-yhNXkSc
+https://www.youtube.com/watch?v=DO9VAZco_64
+https://www.youtube.com/watch?v=BN_8bCfVp88
+https://www.youtube.com/watch?v=8Oo9BtfGq2U
+https://www.youtube.com/watch?v=8PqFv1lQyFg
+https://www.youtube.com/watch?v=4LXDQrMI_ZI
+
+
 
 
