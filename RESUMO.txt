@@ -1,0 +1,31 @@
+Iniciando o projeto -> comando npm init -y
+    gera um arquivo package.json
+
+comando: npm install nodemon 
+    cria uma pasta chamanda node_modulos, com as bibliotecas
+
+comando:  npm install express
+    é um framework que permite criar as apis
+
+criar o comando dev dentro do scrip do package.json 
+    "dev": "nodemon ./src/index.html"
+
+
+comando: node -v
+    ver a versão do node instalado. No caso, v14.17.5
+comando: npm -v
+    ver a versão do gerenciado de pacotes para o node
+postman 
+    usado para testar api. https://www.postman.com/
+framework express
+comando npm run dev 
+    roda a aplicação
+
+
+ENDPOINTS
+Request GET : localhost:8000/api/customers
+Request POST : localhost:8000/api/customers
+Request PUT : localhost:8000/api/customers/:id
+Request DELETE : localhost:8000/api/customers/:id
+
+
